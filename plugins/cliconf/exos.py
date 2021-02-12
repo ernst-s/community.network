@@ -21,7 +21,8 @@ __metaclass__ = type
 
 DOCUMENTATION = '''
 ---
-cliconf: exos
+author: Unknown (!UNKNOWN)
+name: exos
 short_description: Use exos cliconf to run command on Extreme EXOS platform
 description:
   - This exos plugin provides low level abstraction apis for

@@ -21,7 +21,8 @@ __metaclass__ = type
 
 DOCUMENTATION = '''
 ---
-cliconf: edgeswitch
+author: Unknown (!UNKNOWN)
+name: edgeswitch
 short_description: Use edgeswitch cliconf to run command on EdgeSwitch platform
 description:
   - This edgeswitch plugin provides low level abstraction apis for

@@ -18,7 +18,8 @@ __metaclass__ = type
 
 DOCUMENTATION = '''
 ---
-cliconf: cnos
+author: Unknown (!UNKNOWN)
+name: cnos
 short_description: Use cnos cliconf to run command on Lenovo CNOS platform
 description:
   - This cnos plugin provides low level abstraction apis for

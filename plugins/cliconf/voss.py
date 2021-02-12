@@ -21,7 +21,8 @@ __metaclass__ = type
 
 DOCUMENTATION = '''
 ---
-cliconf: voss
+author: Unknown (!UNKNOWN)
+name: voss
 short_description: Use voss cliconf to run command on Extreme VOSS platform
 description:
   - This voss plugin provides low level abstraction apis for

@@ -21,7 +21,8 @@ __metaclass__ = type
 
 DOCUMENTATION = '''
 ---
-cliconf: ce
+author: Unknown (!UNKNOWN)
+name: ce
 short_description: Use ce cliconf to run command on HUAWEI CloudEngine platform
 description:
   - This ce plugin provides low level abstraction apis for

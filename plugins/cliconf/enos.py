@@ -18,7 +18,8 @@ __metaclass__ = type
 
 DOCUMENTATION = '''
 ---
-cliconf: enos
+author: Unknown (!UNKNOWN)
+name: enos
 short_description: Use enos cliconf to run command on Lenovo ENOS platform
 description:
   - This enos plugin provides low level abstraction apis for

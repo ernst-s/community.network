@@ -21,7 +21,8 @@ __metaclass__ = type
 
 DOCUMENTATION = '''
 ---
-netconf: sros
+author: Unknown (!UNKNOWN)
+name: sros
 short_description: Use Nokia SROS netconf plugin to run netconf commands on Nokia SROS platform
 deprecated:
     why: This plugin moved in 'nokia.sros' collection

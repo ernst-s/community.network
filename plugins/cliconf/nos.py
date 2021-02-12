@@ -21,7 +21,8 @@ __metaclass__ = type
 
 DOCUMENTATION = '''
 ---
-cliconf: nos
+author: Unknown (!UNKNOWN)
+name: nos
 short_description: Use nos cliconf to run command on Extreme NOS platform
 description:
   - This nos plugin provides low level abstraction apis for

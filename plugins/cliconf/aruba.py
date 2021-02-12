@@ -21,7 +21,8 @@ __metaclass__ = type
 
 DOCUMENTATION = '''
 ---
-cliconf: aruba
+author: Unknown (!UNKNOWN)
+name: aruba
 short_description: Use aruba cliconf to run command on Aruba platform
 description:
   - This aruba plugin provides low level abstraction apis for

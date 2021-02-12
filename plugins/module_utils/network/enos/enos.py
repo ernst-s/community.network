@@ -53,11 +53,12 @@ enos_provider_spec = {
     'auth_pass': dict(fallback=(env_fallback, ['ANSIBLE_NET_AUTH_PASS']), no_log=True),
     'timeout': dict(type='int'),
     'context': dict(),
-    'passwords': dict()
+    'passwords': dict(no_log=True)
 }
 
 enos_argument_spec = {
-    'provider': dict(type='dict', options=enos_provider_spec),
+    'provider': dict(type='dict', options=enos_provider_spec, removed_in_version='4.0.0',
+                     removed_from_collection='community.network'),
 }
 
 command_spec = {

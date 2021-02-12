@@ -21,7 +21,8 @@ __metaclass__ = type
 
 DOCUMENTATION = '''
 ---
-netconf: ce
+author: Unknown (!UNKNOWN)
+name: ce
 short_description: Use ce netconf plugin to run netconf commands on Huawei Cloudengine platform
 description:
   - This ce plugin provides low level abstraction apis for

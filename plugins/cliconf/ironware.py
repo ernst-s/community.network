@@ -21,7 +21,8 @@ __metaclass__ = type
 
 DOCUMENTATION = '''
 ---
-cliconf: ironware
+author: Unknown (!UNKNOWN)
+name: ironware
 short_description: Use ironware cliconf to run command on Extreme Ironware platform
 description:
   - This ironware plugin provides low level abstraction apis for
